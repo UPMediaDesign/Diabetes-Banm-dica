@@ -1,0 +1,1029 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"article",
+				"article-block__category"
+			],
+			[
+				"curren",
+				"current_category"
+			],
+			[
+				"taxono",
+				"taxonomy_name"
+			],
+			[
+				"article-block__",
+				"article-block__anchor"
+			],
+			[
+				"wp_get_att",
+				"wp_get_attachment_url"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"team",
+				"team-staff"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"fondo",
+				"fondopullcontent"
+			],
+			[
+				"soc",
+				"soc-visible"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"ha",
+				"heading-page"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"nes",
+				"nextpostslink"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"seds",
+				"sedestaff"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_scripts"
+			],
+			[
+				"post_cate",
+				"wp_get_post_categories"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"get_hea",
+				"get_header"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"logo",
+				"logo-banmedica"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"nav",
+				"navbar-collapse"
+			],
+			[
+				"medi",
+				"medic-ask"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"content",
+				"content-coment"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"testimo",
+				"testimonios"
+			],
+			[
+				"line-gree",
+				"line-green-1"
+			],
+			[
+				"max",
+				"maxSlides"
+			],
+			[
+				"min",
+				"minSlides"
+			],
+			[
+				"enfo",
+				"endforeach"
+			],
+			[
+				"navbar",
+				"navbar-toggle"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"slides",
+				"slides-pagination"
+			],
+			[
+				"vide",
+				"videos-ctrl"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"videos",
+				"videos-area"
+			],
+			[
+				"blo",
+				"bloginfo"
+			],
+			[
+				"helvetica",
+				"helveticaNeue"
+			],
+			[
+				"slide",
+				"slides-pagination"
+			],
+			[
+				"menu",
+				"menu"
+			],
+			[
+				"pdd",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tr",
+				"treatments"
+			],
+			[
+				"gr",
+				"green-nav"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"center",
+				"centered"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"s",
+				"sugerences"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"conten",
+				"contenedor-footer"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"blue",
+				"blue-timing"
+			],
+			[
+				"form",
+				"form-container"
+			],
+			[
+				"op",
+				"open_sansregular"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"hoe",
+				"hover"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"col",
+				"colBig"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "website/wp-content/themes/diabetes/blog.php",
+			"settings":
+			{
+				"buffer_size": 4417,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "website/wp-content/themes/diabetes/partials/_blog-gallery.php",
+			"settings":
+			{
+				"buffer_size": 3099,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "website/wp-content/themes/diabetes/style.css",
+			"settings":
+			{
+				"buffer_size": 85643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "website/wp-content/themes/diabetes/functions.php",
+			"settings":
+			{
+				"buffer_size": 10360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "website/wp-content/themes/diabetes/partials/_article-gallery.php",
+			"settings":
+			{
+				"buffer_size": 2017,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:php",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/partials/_single-article-gallery.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/partials/_recipes-gallery.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/partials/_diabetes-gallery.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/partials/_food-gallery.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/partials/_article-gallery.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/index.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/home.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/single.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/programa.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/includes/featured-home.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/footer.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/includes/slider-home.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/includes/heading-main.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/includes/articulos-home.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/functions.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/alimentacion.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/includes/calculadora-alimentacion.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/diabetes.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/includes/banners-home.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/website/wp-content/themes/diabetes/header.php",
+		"/Users/FrontUpmedia/Github/diabetes_rv/index.html",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-fondos.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-familiaip.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/index.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/functions.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/search.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/archive-actividades.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/single-actividades.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/header.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/footer.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-ferias.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-planes.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/contacto.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-voluntariado.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-quienessomos.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-avanza.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-construccion.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-extracurricular.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/404.php",
+		"/Users/FrontUpmedia/Github/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/socialbar.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-avanza.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/footer.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/search.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-fondos.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/index.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/socialbar.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/header.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/404.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/archive-actividades.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-quienessomos.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/single-actividades.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-planes.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-ferias.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/functions.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/page-construccion.php",
+		"/Users/upmedia/GitHub/vidaestudiantilip/wp-content/themes/vidaestudiantil_ipchile/css/bootstrap.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/index_.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/footer_.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/page-168.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/alo-doctor.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/page-165.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/fndc/single-videos.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/fndc/page-384.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/fndc/archive-testimonios.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/fndc/page-238.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/beneficiadas.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/page-6.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/jstyle.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/functions.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/footer.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/index.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/jfunctions.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/alo-doctor_.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/alo-doctor-c.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/alo-doctor-b.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/js/superslides.js",
+		"/Users/upmedia/GitHub/santodomingo/category.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/js/jquery.highlight-5.js",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/bootstrap/css/bootstrap.min.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/js/jquery.bxslider.js",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/css/jquery.bxslider.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/header.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/fndc/functions.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/wp_bootstrap_navwalker.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/bootstrap/css/bootstrap-theme.min.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-includes/comment-template.php",
+		"/Users/upmedia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/upmedia/GitHub/banmedica-descubre/beneficiadas.html",
+		"/Users/upmedia/Dropbox/Super Team/@Descubre tus Piernas/02-Front/index.html",
+		"/Users/upmedia/GitHub/banmedica-descubre/index.html",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar-landing.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar_admision.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/style.css",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_admision.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/.htaccess",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_admision_2.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_egresados_inicio.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/single.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_acreditacion.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/header.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/footer.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/header-egresados.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/error_log",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/.htaccess-bak",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/archive.php",
+		"/Users/upmedia/GitHub/IPChile/landing.html",
+		"/Users/upmedia/Dropbox/Super Team/@ipchile/Landing/IPChile/index.html",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile_capacita/__db__/promo.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/assets/js/bootstrap.js",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/assets/js/app.js",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/archive-jurisprudencia.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page-17.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page-linea-investigacion.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/single-eventos.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/single-directorio.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/search.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/header.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/__archive-publicaciones.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/archive-directores.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/comments.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page-directores.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/fullpage.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/category.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/category-noticias.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/upmedia/GitHub/santodomingo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!-- Article 1 (Alimentación) -->",
+			".red",
+			"small-12  medium-4  large-4  columns  text-center  article-block",
+			"article-intro",
+			"vida sana",
+			"calcula",
+			"page-calc__box-heading",
+			"page-calc",
+			"article-gallery",
+			"small-12  columns  article-gallery",
+			"<!-- end .page-heading -->",
+			"class=\"small-12  columns  text-center  page-heading\"",
+			"home-articles",
+			"off-canvas-content  main-container",
+			"row  row-custom  page-banners",
+			"search",
+			"404",
+			".plan.home figcaption.plan-element.side h3 a",
+			".separator",
+			"planes",
+			"auto",
+			".plan",
+			"post_type",
+			"fondos concursables",
+			"about",
+			"fondos",
+			"not found",
+			"404",
+			"publishframe",
+			"container",
+			"a",
+			"display-on-mobile",
+			"hide-on-desktop",
+			"hide-on",
+			"slides",
+			".loader",
+			"loader",
+			"transition",
+			".border",
+			"border",
+			"Aló Doctor",
+			"substr",
+			"container white videos pdbottom30",
+			"Beneficiadas",
+			"post",
+			"qSlider",
+			"vide",
+			"video",
+			"line-green",
+			"logged",
+			"chat",
+			"logged-in-as",
+			"panel-group",
+			"border",
+			"tratamiento",
+			"trata",
+			"tratanientos",
+			"navbar-collapse",
+			"navbar-collapse.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse",
+			"navbar-collapse",
+			"container",
+			";}",
+			"@media",
+			"navbar-toggle",
+			"ins",
+			"aranci",
+			"row",
+			"col-md-esp",
+			"body",
+			"primary",
+			"bxslider",
+			"panel-body",
+			".panel-group .panel-heading+.panel-collapse .panel-body",
+			"panel-collapse",
+			"panel-default",
+			"panel-heading",
+			".panel-heading",
+			"00aeef",
+			"#00aeef",
+			"panel-default",
+			".panel-default",
+			".panel-default>.panel-heading",
+			" }",
+			"comment",
+			"helvetica",
+			"helvetica,",
+			"bolder",
+			"bold",
+			"bolder",
+			"bold",
+			".beneficiadas",
+			".jumbotron.h1",
+			"jumbotron.h1",
+			"bigcarousel",
+			"$menu_class",
+			"ul",
+			"media=\"all\"\n@media screen and (min-width: 769px",
+			".about",
+			".col-md-esp",
+			".row",
+			"header",
+			"background",
+			"@",
+			"modernizr",
+			"hornbg-student",
+			"horn",
+			"background-image: url",
+			"background.image: url",
+			"ipchile",
+			"ipcchile",
+			"error",
+			"id",
+			"errorSede",
+			"$origen",
+			"enviado",
+			"enviado desde",
+			"btn-chat",
+			"wp_paginate",
+			"row marginTop3 marginBottom3",
+			"google",
+			"menu-jurisprudencia",
+			"nav-eventos",
+			"box-base",
+			"wp_nav_menu",
+			"menu-menu-1",
+			"wp_nav_menu",
+			".panel-default>.panel-heading",
+			"data-parent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "website/wp-content/themes/diabetes/blog.php",
+					"settings":
+					{
+						"buffer_size": 4417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3006,
+								3093
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "website/wp-content/themes/diabetes/partials/_blog-gallery.php",
+					"settings":
+					{
+						"buffer_size": 3099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1502,
+								1502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 287.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "website/wp-content/themes/diabetes/style.css",
+					"settings":
+					{
+						"buffer_size": 85643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26272,
+								26272
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16467.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "website/wp-content/themes/diabetes/functions.php",
+					"settings":
+					{
+						"buffer_size": 10360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "website/wp-content/themes/diabetes/partials/_article-gallery.php",
+					"settings":
+					{
+						"buffer_size": 2017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 123.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.55802974599,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}

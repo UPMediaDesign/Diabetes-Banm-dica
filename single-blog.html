@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" > <![endif]-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+	<title>Single Blog | Banmédica Diabetes</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!-- Replace meta description here -->
+	<meta name="description" content="Here goes the meta description for the website" />
+	<meta name="robots" content="follow, all" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<!-- Facebook Meta tags -->
+	<!--<meta property="og:title" content="UCINF" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="/here/goes/the/main/image.jpg" />
+	<meta property="og:image:width" content="630" />
+	<meta property="og:image:height" content="315" />
+	<meta property="og:url" content="here goes the url" />
+	<meta property="og:description" content="Here goes the website description" />-->
+
+	<!-- Font Awesome Icon Library | v.4.6.1 -->
+	<script src="https://use.fontawesome.com/dc6310ad48.js"></script>
+
+	<!-- Google Fonts Libraries -->
+	<!-- Catamaran -->
+	<link href="https://fonts.googleapis.com/css?family=Catamaran:300,400,500,600,700" rel="stylesheet">
+	<!-- Montserrat -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+	<!-- Open Sans -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
+
+	<!-- Store Files -->
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.3/foundation.min.css">
+	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+
+	<!-- jQuery Call -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	
+	<!-- SVGeezy Script -->
+	<script type="text/javascript" src="js/svgeezy.min.js"></script>
+	<script>svgeezy.init(false, 'png');</script>
+
+	<!-- Slick Slider Files -->
+	<link rel="stylesheet" type="text/css" href="plugins/slick/slick.css">
+	<link rel="stylesheet" type="text/css" href="plugins/slick/slick-theme.css">
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('a[href^="#"]').on('click', function(event) {
+				var target = $( $(this).attr('href') );
+
+				if( target.length ) {
+					event.preventDefault();
+					$('html, body').animate({
+						scrollTop: target.offset().top - 50
+					}, 1000);
+				}
+			});
+		});
+	</script>
+</head>
+
+<body>
+	<div class="off-canvas-wrapper">
+		<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+			<!-- Header -->
+			<header data-interchange="[partials/mobile-nav.html, small], [partials/mobile-nav.html, medium], [partials/main-nav.html, large]"></header>
+			<!-- end Header -->
+			
+			<!-- Sidebar -->
+			<div class="off-canvas position-left" id="sidebar" data-off-canvas>
+				<!-- Close button -->
+				<!-- <button class="close-button" aria-label="Close menu" type="button" data-close>
+					<span aria-hidden="true">&times;</span>
+				</button> -->
+				
+				<!-- Menu -->
+				<ul id="sidebar-menu" class="vertical menu" data-drilldown data-back-button='<li class="js-drilldown-back"><a>Volver</a></li>'>
+					<li class="sidebar-menu__item">
+						<a href="index.html" class="sidebar-menu__anchor" title="Ir al Inicio">
+							<img src="images/logos/contigo-siempre-logo.png" class="sidebar-menu__logo" alt="Logo Programa Contigo Siempre">
+						</a>
+					</li>
+					<li class="sidebar-menu__item">
+						<a href="beneficios.html" class="sidebar-menu__anchor" title="Beneficios Programa">Beneficios Programa</a>
+					</li>
+					<li class="sidebar-menu__item">
+						<a href="#" class="sidebar-menu__anchor" title="Diabetes">Diabetes</a>
+					</li>
+					<li class="sidebar-menu__item">
+						<a href="#" class="sidebar-menu__anchor" title="Alimentación">Alimentación</a>
+					</li>
+					<li class="sidebar-menu__item">
+						<a href="#" class="sidebar-menu__anchor" title="Comunidad">Comunidad</a>
+					</li>
+					<li class="sidebar-menu__item">
+						<a href="blog.html" class="sidebar-menu__anchor" title="Blog">Blog</a>
+					</li>
+					<li class="sidebar-menu__item">
+						<a href="#" class="button  radius  red  sidebar-menu__button" title="Inscribirme">Inscribirme</a>
+					</li>
+				</ul>
+			</div>
+			<!-- end #sidebar -->
+
+			<!-- Main Container -->
+			<div id="blog" class="off-canvas-content  main-container" data-off-canvas-content>
+				<!-- Blog Search -->
+				<form id="blog-search" class="row  row-wide" action="">
+					<div class="row  row-custom">
+						<div class="small-12  medium-5  large-5  columns  blog-search__block">
+							<h1 class="blog-search__title">Blog > Vida Sana</h1>
+						</div>
+						<!-- end .blog-search__block -->
+
+						<div class="small-12  medium-7  large-7  columns  blog-search__block">
+							<input type="input" id="blog-search__input" class="text" value="Buscar">
+							<button type="submit" id="blog-search__button" class="button"><i class="fa fa-search fa-fw"></i></button>
+						</div>
+						<!-- end .blog-search__block -->
+					</div>
+					<!-- end .row-custom -->
+				</form>
+				<!-- end #blog-search -->
+				
+				<!-- Blog Intro -->
+				<section class="row  row-custom  blog-intro">
+					<!-- Blog Heading -->
+					<div class="small-12  columns  blog-heading">
+						<h1 class="blog-heading__title">Destacado</h1>
+					</div>
+					<!-- end .blog-heading -->
+
+					<!-- Featured Article -->
+					<article class="small-12  medium-6  large-6  columns  featured-article">
+						<img src="images/articles/featured-article-image-1.jpg" class="featured-article__image" alt="article image">
+						<h1 class="featured-article__title">Alimentación Saludable</h1>
+						<h2 class="featured-article__category  open">Vida Sana</h2>
+						<p class="featured-article__excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet ipsa dolor distinctio eos unde vel voluptates illo aspernatur ut saepe voluptatum incidunt totam veritatis earum, id hic magnam vitae cum?</p>
+						<a href="#" class="button  radius  red  bordered" title="Leer más">Leer más</a>
+					</article>
+					<!-- end .featured-article -->
+					
+					<!-- Blog Categories -->
+					<div class="small-12  medium-6  large-6  columns  blog-cats">
+						<!-- Blog Heading -->
+						<div class="small-12  columns  blog-heading">
+							<h1 class="blog-heading__title">Categorías</h1>
+						</div>
+						<!-- end .blog-heading -->
+						
+						<!-- Cat 1 -->
+						<div class="small-4  columns  text-center  blog-cats__block  active">
+							<div class="small-12  columns  block-cats__block-box  block-cats__block-box--yellow">
+								<div class="block-cats__block-wrapper">
+									<img src="images/icons/icon-bicycle.svg" class="inject-me  blog-cats__block-icon" alt="icon bicycle">
+									<span class="blog-cats__block-title">Vida Sana</span>
+								</div>
+							</div>
+							<!-- end .block-cats__block-box -->
+						</div>
+						<!-- end .blog-cats__block -->
+
+						<!-- Cat 2 -->
+						<div class="small-4  columns  text-center  blog-cats__block">
+							<div class="small-12  columns  block-cats__block-box  block-cats__block-box--blue">
+								<div class="block-cats__block-wrapper">
+									<img src="images/icons/icon-suitcase.svg" class="inject-me  blog-cats__block-icon" alt="icon suitcase">
+									<span class="blog-cats__block-title">Tratamientos</span>
+								</div>
+							</div>
+							<!-- end .block-cats__block-box -->
+						</div>
+						<!-- end .blog-cats__block -->
+
+						<!-- Cat 3 -->
+						<div class="small-4  columns  text-center  blog-cats__block">
+							<div class="small-12  columns  block-cats__block-box  block-cats__block-box--orange">
+								<div class="block-cats__block-wrapper">
+									<img src="images/icons/icon-stethoscope.svg" class="inject-me  blog-cats__block-icon" alt="icon stethoscope">
+									<span class="blog-cats__block-title">Complicaciones</span>
+								</div>
+							</div>
+							<!-- end .block-cats__block-box -->
+						</div>
+						<!-- end .blog-cats__block -->
+					</div>
+					<!-- end .blog-cats -->
+					
+					<!-- Blog Intro Character -->
+					<div class="small-12  medium-6  large-6  columns  text-right  blog-intro__character">
+						<img src="images/objects/sitting-character.png" alt="sitting character">
+					</div>
+					<!-- end .blog-intro__character -->
+				</section>
+				<!-- end .blog-intro -->
+				
+				<!-- Blog Articles -->
+				<section id="blog-articles" class="row  row-wide">
+					<div class="row  row-custom  article-gallery" data-interchange="[_single-blog-gallery.html, small]"></div>
+				</section>
+				<!-- end #blog-articles -->
+				
+				<!-- Blog Media -->
+				<section id="blog-media" class="row  row-custom">
+					<div class="small-12  medium-6  large-6  columns  blog-media__block">
+						<div class="row">
+							<!-- Video Block -->
+							<div class="small-12  columns  video-block">
+								<div class="row">
+									<!-- Heading -->
+									<div class="small-12  columns  video-block__heading">
+										<a href="#" class="video-block__anchor" title="Ver Video">
+											<div class="video-block__anchor-wrapper">
+												<div class="video-block__anchor-wrapper-cell">
+													<span class="video-block__anchor-icon"><i class="fa fa-play fa-fw"></i></span>
+												</div>
+											</div>
+										</a>
+										<img src="images/banners/video-banner-2.jpg" class="img-full" alt="video banner">
+									</div>
+									<!-- end .video-block__heading -->
+
+									<div class="small-12  columns  video-block__info">
+										<h1 class="video-block__title">Lorem ipsum dolor sit amet</h1>
+										<p class="video-block__excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, nam. Quasi, blanditiis autem unde facilis omnis veritatis vero veniam nulla officiis hic rerum quo reprehenderit modi impedit necessitatibus ducimus voluptas.</p>
+									</div>
+									<!-- end .video-block__info -->
+								</div>
+							</div>
+							<!-- end .video-block -->
+							
+							<!-- More Videos -->
+							<div class="small-12  columns  text-center  blog-media__actions">
+								<a href="#" class="button  grey  bordered" title="Más Videos"><i class="fa fa-plus fa-fw"></i> Videos</a>
+							</div>
+							<!-- end .blog-media__actions -->
+
+							<!-- Banner Block -->
+							<div class="small-12  columns  banner-block">
+								<div class="small-12  medium-6  large-6  columns  banner-block__content  banner-block__content--left">
+									<h1 class="banner-block__title banner-block__title--white">¿Tienes una receta para compartir?</h1>
+									<hr class="banner-block__divider  banner-block__divider--white">
+									<p class="banner-block__text  banner-block__text--white">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+									<a href="#" class="button  radius  white  bordered" title="Sube tu receta">Sube tu receta</a>
+								</div>
+								<!-- end .banner-block__content -->
+
+								<img data-interchange="[images/banners/banner-image-3_small.jpg, small], [images/banners/banner-image-3.jpg, medium], [images/banners/banner-image-3.jpg, large]" class="banner-block__image" alt="banner 1">
+							</div>
+							<!-- end .banner-block -->
+
+							<!-- Event Block -->
+							<div class="small-12  columns  event-block">
+								<div class="event-block__icon">
+									<i class="fa fa-calendar fa-fw"></i>
+								</div>
+
+								<div class="small-12  medium-8  large-8  columns  event-block__content">
+									<h2 class="event-block__subtitle  open">Eventos</h2>
+									<h1 class="event-block__title">Tu salud y opinión nos importa</h1>
+									<div class="event-block__info">
+										<span class="event-block__info-description"><strong>Dra. Andrea Lorca</strong>, especialista en diabetes.</span>
+										<span class="event-block__info-date">Lunes 17, Oct<br><strong>2016</strong></span>
+									</div>
+									<p class="event-block__text">Lorem ipsum dolor sit amet, consectetur elit.</p>
+								</div>
+								<!-- end .event-block__content -->
+
+								<img data-interchange="[images/banners/event-banner-image_small.jpg, small], [images/banners/event-banner-image.jpg, medium], [images/banners/event-banner-image.jpg, large]" class="event-block__image" alt="event banner">
+							</div>
+							<!-- end .event-block -->
+
+							<!-- Other Events -->
+							<div class="small-12  columns  text-center  blog-media__actions">
+								<a href="#" class="button  grey  bordered" title="Ver Otros Eventos">Ver Otros Eventos</a>
+							</div>
+							<!-- end .blog-media__actions -->
+						</div>
+						<!-- end .row -->
+					</div>
+					<!-- end .blog-media__block -->
+
+					<div class="small-12  medium-6  large-6  columns  blog-media__block">
+						<div class="row">
+							<!-- Blog Heading -->
+							<div class="small-12  columns  text-right  blog-heading">
+								<h1 class="blog-heading__title">Galería</h1>
+							</div>
+							<!-- end .blog-heading -->
+
+							<!-- Blog Gallery -->
+							<div class="small-12  columns  text-center  blog-gallery">
+								<div class="row">
+									<!-- Block 1 -->
+									<div class="small-6  columns  block-gallery__block">
+										<a class="blog-gallery__block-anchor" data-open="block-modal-1">
+											<div class="blog-gallery__block-anchor-wrapper">
+												<div class="blog-gallery__block-anchor-wrapper-cell">
+													<span class="blog-gallery__anchor-icon"><i class="fa fa-eye fa-fw"></i></span>
+												</div>
+											</div>
+										</a>
+										<img src="images/blog/blog-gallery-image-1.jpg" class="blog-gallery__block-thumb" alt="image 1">
+									</div>
+									<!-- end .blog-gallery__block -->
+
+									<!-- Reveal Modal for Block 1 -->
+									<div class="reveal  blog-gallery__modal" id="block-modal-1" data-reveal>
+										<img src="images/blog/blog-gallery-image-1.jpg" class="blog-gallery__block-image" alt="image 1">
+
+										<button class="close-button  blog-gallery__modal-close" data-close aria-label="Close modal" type="button">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<!-- end .blog-gallery__modal -->
+
+									<!-- Block 2 -->
+									<div class="small-6  columns  block-gallery__block">
+										<a class="blog-gallery__block-anchor" data-open="block-modal-2">
+											<div class="blog-gallery__block-anchor-wrapper">
+												<div class="blog-gallery__block-anchor-wrapper-cell">
+													<span class="blog-gallery__anchor-icon"><i class="fa fa-eye fa-fw"></i></span>
+												</div>
+											</div>
+										</a>
+										<img src="images/blog/blog-gallery-image-2.jpg" class="blog-gallery__block-thumb" alt="image 2">
+									</div>
+									<!-- end .blog-gallery__block -->
+
+									<!-- Reveal Modal for Block 2 -->
+									<div class="reveal  blog-gallery__modal" id="block-modal-2" data-reveal>
+										<img src="images/blog/blog-gallery-image-2.jpg" class="blog-gallery__block-image" alt="image 2">
+
+										<button class="close-button  blog-gallery__modal-close" data-close aria-label="Close modal" type="button">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<!-- end .blog-gallery__modal -->
+
+									<!-- Block 3 -->
+									<div class="small-6  columns  block-gallery__block">
+										<a class="blog-gallery__block-anchor" data-open="block-modal-3">
+											<div class="blog-gallery__block-anchor-wrapper">
+												<div class="blog-gallery__block-anchor-wrapper-cell">
+													<span class="blog-gallery__anchor-icon"><i class="fa fa-eye fa-fw"></i></span>
+												</div>
+											</div>
+										</a>
+										<img src="images/blog/blog-gallery-image-3.jpg" class="blog-gallery__block-thumb" alt="image 3">
+									</div>
+									<!-- end .blog-gallery__block -->
+
+									<!-- Reveal Modal for Block 3 -->
+									<div class="reveal  blog-gallery__modal" id="block-modal-3" data-reveal>
+										<img src="images/blog/blog-gallery-image-3.jpg" class="blog-gallery__block-image" alt="image 3">
+
+										<button class="close-button  blog-gallery__modal-close" data-close aria-label="Close modal" type="button">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<!-- end .blog-gallery__modal -->
+
+									<!-- Block 4 -->
+									<div class="small-6  columns  block-gallery__block">
+										<a class="blog-gallery__block-anchor" data-open="block-modal-4">
+											<div class="blog-gallery__block-anchor-wrapper">
+												<div class="blog-gallery__block-anchor-wrapper-cell">
+													<span class="blog-gallery__anchor-icon"><i class="fa fa-eye fa-fw"></i></span>
+												</div>
+											</div>
+										</a>
+										<img src="images/blog/blog-gallery-image-4.jpg" class="blog-gallery__block-thumb" alt="image 4">
+									</div>
+									<!-- end .blog-gallery__block -->
+									
+									<!-- Reveal Modal for Block 4 -->
+									<div class="reveal  blog-gallery__modal" id="block-modal-4" data-reveal>
+										<img src="images/blog/blog-gallery-image-4.jpg" class="blog-gallery__block-image" alt="image 4">
+
+										<button class="close-button  blog-gallery__modal-close" data-close aria-label="Close modal" type="button">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<!-- end .blog-gallery__modal -->
+
+									<!-- Block 5 -->
+									<div class="small-6  columns  block-gallery__block">
+										<a class="blog-gallery__block-anchor" data-open="block-modal-5">
+											<div class="blog-gallery__block-anchor-wrapper">
+												<div class="blog-gallery__block-anchor-wrapper-cell">
+													<span class="blog-gallery__anchor-icon"><i class="fa fa-eye fa-fw"></i></span>
+												</div>
+											</div>
+										</a>
+										<img src="images/blog/blog-gallery-image-5.jpg" class="blog-gallery__block-thumb" alt="image 5">
+									</div>
+									<!-- end .blog-gallery__block -->
+									
+									<!-- Reveal Modal for Block 5 -->
+									<div class="reveal  blog-gallery__modal" id="block-modal-5" data-reveal>
+										<img src="images/blog/blog-gallery-image-5.jpg" class="blog-gallery__block-image" alt="image 5">
+
+										<button class="close-button  blog-gallery__modal-close" data-close aria-label="Close modal" type="button">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<!-- end .blog-gallery__modal -->
+
+									<!-- Block 6 -->
+									<div class="small-6  columns  block-gallery__block">
+										<a class="blog-gallery__block-anchor" data-open="block-modal-6">
+											<div class="blog-gallery__block-anchor-wrapper">
+												<div class="blog-gallery__block-anchor-wrapper-cell">
+													<span class="blog-gallery__anchor-icon"><i class="fa fa-eye fa-fw"></i></span>
+												</div>
+											</div>
+										</a>
+										<img src="images/blog/blog-gallery-image-6.jpg" class="blog-gallery__block-thumb" alt="image 6">
+									</div>
+									<!-- end .blog-gallery__block -->
+									
+									<!-- Reveal Modal for Block 6 -->
+									<div class="reveal  blog-gallery__modal" id="block-modal-6" data-reveal>
+										<img src="images/blog/blog-gallery-image-6.jpg" class="blog-gallery__block-image" alt="image 6">
+
+										<button class="close-button  blog-gallery__modal-close" data-close aria-label="Close modal" type="button">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<!-- end .blog-gallery__modal -->
+								</div>
+								<!-- end .row -->
+							</div>
+							<!-- end .blog-gallery -->
+
+							<!-- View Gallery -->
+							<div class="small-12  columns  text-center  blog-media__actions">
+								<a href="#" class="button  grey  bordered" title="Ver Galería">Ver Galería</a>
+							</div>
+							<!-- end .blog-media__actions -->
+							
+							<!-- Blog Tags -->
+							<div class="small-12  columns  text-right  blog-tags">
+								<div class="blog-tags__icon"><i class="fa fa-tag fa-fw"></i></div>
+
+								<div class="small-12  columns  blog-tags__container">
+									<h1 class="blog-tags__title">Etiquetas</h1>
+
+									<ul class="no-bullet  blog-tags__list">
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="lorem">lorem</a>
+										</li>
+										<li class="blog-tags__list-item  big">
+											<a href="#" class="blog-tags__item-anchor" title="ipsum">ipsum</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="dolor sit">dolor sit</a>
+										</li>
+										<li class="blog-tags__list-item  medium">
+											<a href="#" class="blog-tags__item-anchor" title="amet">amet</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="consectetur">consectetur</a>
+										</li>
+										<li class="blog-tags__list-item  big">
+											<a href="#" class="blog-tags__item-anchor" title="adispiscing">adispiscing</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="elit">elit</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="Suspendisse">Suspendisse</a>
+										</li>
+										<li class="blog-tags__list-item  big">
+											<a href="#" class="blog-tags__item-anchor" title="Sodales">Sodales</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="dolor">dolor</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="id leo pellentesque">id leo pellentesque</a>
+										</li>
+										<li class="blog-tags__list-item  big">
+											<a href="#" class="blog-tags__item-anchor" title="laoreet">laoreet</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="Donec id volutpat urna">Donec id volutpat urna</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="Vivamus auctor mattis sem">Vivamus auctor mattis sem</a>
+										</li>
+										<li class="blog-tags__list-item  medium">
+											<a href="#" class="blog-tags__item-anchor" title="pharetra eros">pharetra eros</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="rutrum  dictum">rutrum  dictum</a>
+										</li>
+										<li class="blog-tags__list-item  big">
+											<a href="#" class="blog-tags__item-anchor" title="arcumi">arcumi</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="pulvinar suscipit">pulvinar suscipit</a>
+										</li>
+										<li class="blog-tags__list-item">
+											<a href="#" class="blog-tags__item-anchor" title="metus sagittis">metus sagittis</a>
+										</li>
+									</ul>
+									<!-- end .blog-tags__list -->
+								</div>
+								<!-- end .blog-tags__container -->
+							</div>
+							<!-- end .blog-tags -->
+						</div>
+						<!-- end .row -->
+					</div>
+					<!-- end .blog-media__block -->
+				</section>
+				<!-- end #blog-media -->
+			</div>
+			<!-- end .main-container -->
+
+			<!-- Footer -->
+			<footer data-interchange="[partials/footer.html, small]"></footer>
+			<!-- end Footer -->
+		</div>
+		<!-- end .off-canvas-wrapper-inner -->
+	</div>
+	<!-- end .off-canvas-wrapper -->
+
+	<!-- SVGInjector Script -->
+	<script type="text/javascript" src="js/svg-injector.min.js"></script>
+	<script>
+		// Elements to inject
+		var mySVGsToInject = document.querySelectorAll('img.inject-me');
+
+		// Do the injection
+		SVGInjector(mySVGsToInject);
+	</script>
+	
+	<!-- Slick Slider JS -->
+	<script type="text/javascript" src="plugins/slick/slick.min.js"></script>
+
+	<!-- Initialiaze Foundation Framework -->
+	<script type="text/javascript" src="js/what-input.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/foundation/6.2.3/foundation.min.js"></script>
+	<script type="text/javascript">$(document).foundation();</script>
+</body>
+</html>
